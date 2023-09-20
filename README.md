@@ -6,9 +6,12 @@ This notebook implements [DiffEdit](https://arxiv.org/abs/2210.11427), an algori
 By providing a source and target description using only text, an input image is transformed into an edited version matching the target description.
 
 Source="a horse in front of a metal wall"
-![image](./imgs/horse1.png)
+
+<img src="./imgs/horse1.png" width="250" height=250/>
+
 Target="a zebra in front of a wall"
-![image](./out/edited_zebra.png)]
+
+<img src="./out/edited_zebra.png" width="250" height=250/>
 
 # How does it work / what did I do
 
